@@ -3,7 +3,7 @@ package versioninggo
 import "fmt"
 
 func GetVersion() string {
-	return "v2.0.1"
+	return "v3.0.0-beta"
 }
 
 func PrintVersion() {
